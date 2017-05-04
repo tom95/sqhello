@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfHello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfHello",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
