@@ -1,0 +1,14 @@
+{
+	"category" : "Hello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HelloInput",
+	"pools" : [
+		 ],
+	"super" : "BTTextArea",
+	"type" : "normal" }

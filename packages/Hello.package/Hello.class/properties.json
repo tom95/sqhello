@@ -1,0 +1,18 @@
+{
+	"category" : "Hello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Instance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"searchInput",
+		"resultList",
+		"activeItemIndex",
+		"previousKeyboardFocus",
+		"previousMouseFocus" ],
+	"name" : "Hello",
+	"pools" : [
+		 ],
+	"super" : "BTWidget",
+	"type" : "normal" }

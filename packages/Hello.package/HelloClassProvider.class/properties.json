@@ -1,0 +1,14 @@
+{
+	"category" : "Hello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HelloClassProvider",
+	"pools" : [
+		 ],
+	"super" : "HelloSearchProvider",
+	"type" : "normal" }

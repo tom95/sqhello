@@ -1,0 +1,14 @@
+{
+	"category" : "Hello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"defaultItems" ],
+	"name" : "HelloSearchProvider",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

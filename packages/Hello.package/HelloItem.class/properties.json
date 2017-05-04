@@ -1,0 +1,17 @@
+{
+	"category" : "Hello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"action",
+		"label",
+		"activate",
+		"score" ],
+	"name" : "HelloItem",
+	"pools" : [
+		 ],
+	"super" : "BTListGroupItem",
+	"type" : "normal" }
